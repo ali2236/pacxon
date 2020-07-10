@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1548223040 source:d:\projects\home_work\pacxon\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<wincon.h>
+	<time.h>
+
+1547795210 d:\projects\home_work\pacxon\pax.ui.h
+	<stdio.h>
+	<string.h>
+
+1547795291 d:\projects\home_work\pacxon\paxui.h
+	<stdio.h>
+	<string.h>
+
+1547795473 d:\projects\home_work\pacxon\paxui.c
+
+1547969443 d:\projects\home_work\pacxon\pax2d.c
+
+1547968784 d:\projects\home_work\pacxon\paxtypes.c
+
+1547969546 d:\projects\home_work\pacxon\pax2d.h
+
