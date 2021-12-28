@@ -2,17 +2,13 @@
 //   Ali Ghanbari
 //     - pacxon -
 //
-/**
-* TODO:
-*   - Add levels and progression
-*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <windows.h>
 #include <wincon.h>
 #include <time.h>
-#define X 20 //65
-#define Y 10 //20
+#define X 65
+#define Y 20
 
 // enums!
 enum objectType {
